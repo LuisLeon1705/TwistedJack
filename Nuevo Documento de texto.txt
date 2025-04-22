@@ -1,0 +1,3 @@
+agregar,
+-Teoria de conteo
+-formula de permutación, combinación, variación, con repetición y sin repeticion
